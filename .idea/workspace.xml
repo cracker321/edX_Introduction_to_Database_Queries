@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="307b5319-c074-4475-90ec-17765813ab89" name="Changes" comment="" />
+    <list default="true" id="307b5319-c074-4475-90ec-17765813ab89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Coursera_Java_Programming_Principles_of_Software_Design/Coursera_Java_Programming_Principles_of_Software_Design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursera_Object_Oriented_Programming_in_Java/Coursera_Object_Oriented_Programming_in_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursera_Programming_Foundations_with_JavaScript_HTML_and_CSS/Coursera_Programming_Foundations_with_JavaScript_HTML_and_CSS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edX_Introduction_to_Java_Programming_Writing_Good_Code/edX_Introduction_to_Java_Programming_Writing_Good_Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/answer/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/answer/AnswerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/answer/AnswerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/exception/DataNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/question/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/question/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/question/QuestionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/question/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/resources/templates/question_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/resources/templates/question_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,29 +42,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yujong/Desktop/workspace/edX_Introduction_to_Database_Queries",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yujong/Desktop/workspace/edX_Introduction_to_Database_Queries&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="edX_Introduction_to_Database_Queries" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="edX_Introduction_to_Database_Queries" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +89,12 @@
       <option name="presentableId" value="Default" />
       <updated>1669607313801</updated>
       <workItem from="1669607316284" duration="28000" />
-      <workItem from="1669784947162" duration="4212000" />
+      <workItem from="1669784947162" duration="5552000" />
+      <workItem from="1669974434235" duration="631000" />
+      <workItem from="1669980673535" duration="333000" />
+      <workItem from="1669983849290" duration="320000" />
+      <workItem from="1669994378486" duration="597000" />
+      <workItem from="1670033881612" duration="829000" />
     </task>
     <servers />
   </component>
