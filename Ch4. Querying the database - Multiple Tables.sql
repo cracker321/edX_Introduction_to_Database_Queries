@@ -24,7 +24,6 @@ ORDER BY
 -- Return one row for each address for the customer with an email address of allan.sherwood@yahoo.com
 -- Sort the result set by the zip_code column in ascending sequence.
 
-
 SELECT
     c.first_name,
     c.last_name,
