@@ -1,6 +1,6 @@
 
 --  [ Lab 1 ]
--- < Write a SELECT statement without a FROM clause that creates a row with these columns >
+--  Write a SELECT statement without a FROM clause that creates a row with these columns
 --     price 100 (dollars)
 --     tax_rate .07 (7 percent)
 --     tax_amount The price multiplied by the tax
@@ -27,6 +27,10 @@ ORDER BY
 --
 -- Format this column with the last name, a comma, a space, and the first name like this:
 --     Doe, John
+-- Sort the result set by the last_name column in ascending sequence.
+-- Return only the customers whose last name begins with letters from M to Z.
+-- NOTE: When comparing strings of characters, ‘M’ comes before any string of characters that begins with ‘M’.
+--     For example, ‘M’ comes before ‘Murach’.
 
 SELECT
     first_name, last_name, CONCAT(last_name, ", ", first_name) AS full_name

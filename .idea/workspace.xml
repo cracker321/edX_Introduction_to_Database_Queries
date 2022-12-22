@@ -20,7 +20,82 @@
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/question/QuestionService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/resources/templates/question_detail.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/resources/templates/question_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/ISSUE_TEMPLATE/issue-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/appspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/buildspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/scripts/initialize.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/scripts/server_clear.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/scripts/server_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/scripts/server_stop.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/SebMainProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/audit/Auditable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/controller/BookmarkController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/dto/BookmarkDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/entity/Bookmark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/mapper/BookmarkMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/repository/BookmarkRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/bookmark/service/BookmarkService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/dto/CommentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/mapper/CommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/repository/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/comment/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/exception/BusinessLogicException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/exception/ExceptionCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/exception/GlobalExceptionAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/follow/entity/Follow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/follow/repository/FollowRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/controller/MemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/dto/AuthDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/dto/ExistNickNameResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/entity/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/mapper/MemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/repository/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/service/DBMemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/member/service/MemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/controller/PostController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/dto/PostDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/entity/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/mapper/PostMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/repository/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/post/service/PostService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/postlike/controller/PostLikeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/postlike/dto/PostLikeResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/postlike/entity/PostLike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/postlike/repository/PostLikeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/postlike/service/PostLikeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/response/MultiResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/response/PageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/response/SingleResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/controller/SecurityController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/dto/LoginDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/entity/RefreshToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/filter/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/filter/JwtVerificationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/handler/MemberAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/handler/MemberAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/handler/MemberAuthenticationFailureHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/handler/MemberAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/jwt/JwtTokenizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/repository/RefreshTokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/response/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/userdetails/MemberDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/utils/CustomAuthorityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/utils/ErrorResponder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/main/java/com/example/seb_main_project/security/utils/JwtConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../server/src/test/java/com/example/seb_main_project/SebMainProjectApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +169,9 @@
       <workItem from="1669980673535" duration="333000" />
       <workItem from="1669983849290" duration="320000" />
       <workItem from="1669994378486" duration="597000" />
-      <workItem from="1670033881612" duration="829000" />
+      <workItem from="1670033881612" duration="1472000" />
+      <workItem from="1671693488247" duration="734000" />
+      <workItem from="1671700215837" duration="3765000" />
     </task>
     <servers />
   </component>
