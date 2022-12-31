@@ -117,10 +117,14 @@ ORDER BY
 -- order_date The order_date column
 -- ship_date The ship_date column
 
-SELECT order_id, order_date, ship_date
-FROM orders
-WHERE ship_date IS null
-ORDER BY order_id DESC
+SELECT
+    order_id, order_date, ship_date
+FROM
+    orders
+WHERE
+    ship_date IS null
+ORDER BY
+    order_id DESC
 
 
 
