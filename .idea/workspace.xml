@@ -9,6 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../Coursera_Object_Oriented_Programming_in_Java/Coursera_Object_Oriented_Programming_in_Java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Coursera_Programming_Foundations_with_JavaScript_HTML_and_CSS/Coursera_Programming_Foundations_with_JavaScript_HTML_and_CSS.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../edX_Introduction_to_Java_Programming_Writing_Good_Code/edX_Introduction_to_Java_Programming_Writing_Good_Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex1-hello-jpa/src/main/java/hellojpa/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/src/img1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/MainController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/answer/Answer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/java/com/example/ssbyujong/answer/AnswerController.java" afterDir="false" />
@@ -22,7 +24,9 @@
       <change afterPath="$PROJECT_DIR$/../ssbyujong/src/main/resources/templates/question_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.github/ISSUE_TEMPLATE/issue-template.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch5. Modifying the database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Ch5. Modifying the database.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/appspec.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/build.gradle" beforeDir="false" />
@@ -122,7 +126,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yujong/Desktop/workspace/edX_Introduction_to_Database_Queries&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yujong/Desktop/workspace/Inflearn_JPA_Programming_Fundamentals&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -171,7 +175,15 @@
       <workItem from="1669994378486" duration="597000" />
       <workItem from="1670033881612" duration="1472000" />
       <workItem from="1671693488247" duration="734000" />
-      <workItem from="1671700215837" duration="4132000" />
+      <workItem from="1671700215837" duration="4924000" />
+      <workItem from="1671848418780" duration="565000" />
+      <workItem from="1671945185670" duration="595000" />
+      <workItem from="1671984941956" duration="599000" />
+      <workItem from="1672101277285" duration="561000" />
+      <workItem from="1672149989333" duration="571000" />
+      <workItem from="1672188006957" duration="544000" />
+      <workItem from="1672493153454" duration="1901000" />
+      <workItem from="1672500538139" duration="849000" />
     </task>
     <servers />
   </component>
